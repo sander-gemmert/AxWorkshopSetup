@@ -69,5 +69,5 @@ At the end of the quickstart you have accomplished the following:
 * You have deployed it to PLC
 * And you have monitored the program and changed its variables.
 
-✅ By successfully going through the quickstart we have tested that the AX Code environment is installed correctly and you are ready for the Introduction Workshop!
+✅ By successfully going through the quickstart we have tested that the AX Code environment is installed correctly and you are ready for the [AX Introduction Workshop](https://github.com/sander-gemmert/AxWorkshop)!
 
