@@ -34,7 +34,12 @@ Some additional software is required for using AX Code:
 
 ## Installing additional software
 
-For this workshop PLCSIM Advanced is used to simulate the PLC. It is possible to complete the workshop with physical hardware, please make sure you have compatible 
+For this workshop PLCSIM Advanced is used to simulate the PLC. It is possible to complete the workshop with physical hardware, please make sure the hardare is compatible for this workshop.
+
+* [S7-1500](https://docs.industrial-operations-x.siemens.cloud/r/en-us/ax/hw-s7-1500/4.3.0/s7-1500-hardware-support-package/supported-hardware)
+* [ET 200SP](https://docs.industrial-operations-x.siemens.cloud/r/en-us/ax/hw-et200sp/4.3.0/et200sp-hardware-support-package/supported-hardware)
+
+> Note: During the workshop we will focus on the modules which are supported by the Hardware Engineering Tools of SIMATIX AX at this moment, see the links above.
 
 ### 1.Installation of SIMATIC PLCSIM Advanced
 
